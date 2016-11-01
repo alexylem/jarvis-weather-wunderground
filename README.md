@@ -10,7 +10,9 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Donne la météo du jour. Nécessite une clé wunderground (gratuite).
+Donne la météo du jour.
+Nécessite une clé wunderground (gratuite).
+Obtenir une clé: https://www.wunderground.com/weather/api/
 
 ## Usage
 ```
