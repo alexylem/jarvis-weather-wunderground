@@ -10,7 +10,7 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Donne la météo du jour.
+Donne la météo du jour ou du lendemain.
 Nécessite une clé wunderground (gratuite).
 Obtenir une clé: https://www.wunderground.com/weather/api/
 
@@ -18,7 +18,11 @@ Obtenir une clé: https://www.wunderground.com/weather/api/
 ```
 Vous: Quelle est la météo?
 Jarvis: je regarde...
-Jarvis: Ciel plutôt dégagé. Minimales : 9
+Jarvis: Légère pluie. Maximales : 9 degrés. Vents S et variables. Risque de pluie : 70 %.
+
+Vous: Quelle est la météo pour demain?
+Jarvis: je regarde...
+Jarvis: Légère pluie. Minimales : 7 degrés. Vents SO soufflant de 10 à 15 km/h. Risque de pluie : 60 %.
 ```
 
 ## Author
