@@ -11,7 +11,7 @@ For multi-language plugin:
 -->
 ## Description
 Donne la météo du jour ou du lendemain.
-Nécessite une clé wunderground gratuite - [Obtenir une clé](https://www.wunderground.com/weather/api/)
+Nécessite une clé wunderground gratuite - [Obtenir une clé](https://www.wunderground.com/weather/api/).
 
 ## Usage
 ```
