@@ -13,6 +13,10 @@ For multi-language plugin:
 Donne la météo du jour ou du lendemain.
 Nécessite une clé wunderground gratuite - [Obtenir une clé](https://www.wunderground.com/weather/api/).
 
+## Languages
+* English
+* Français
+
 ## Usage
 ```
 Vous: Quelle est la météo?
