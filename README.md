@@ -16,6 +16,7 @@ Nécessite une clé wunderground gratuite - [Obtenir une clé](https://www.wunde
 ## Languages
 * English
 * Français
+* Italiano
 
 ## Usage
 ```
