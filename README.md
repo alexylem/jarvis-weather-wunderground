@@ -22,11 +22,11 @@ Nécessite une clé wunderground gratuite - [Obtenir une clé](https://www.wunde
 ```
 Vous: Quelle est la météo?
 Jarvis: je regarde...
-Jarvis: Légère pluie. Maximales : 9 degrés. Vents S et variables. Risque de pluie : 70 %.
+Jarvis: Légère pluie. Maximales : 9 degrés. Vents Sud et variables. Risque de pluie : 70 pourcents.
 
 Vous: Quelle est la météo pour demain?
 Jarvis: je regarde...
-Jarvis: Légère pluie. Minimales : 7 degrés. Vents SO soufflant de 10 à 15 km/h. Risque de pluie : 60 %.
+Jarvis: Légère pluie. Minimales : 7 degrés. Vents Sud Ouest soufflant de 10 à 15 kilomètres heure. Risque de pluie : 60 pourcents.
 ```
 
 ## Author
